@@ -1,7 +1,7 @@
 {
-  "name": "random-color-generator",
-  "version": "1.0.0",
-  "description": "Library to generate random hex colors",
+  "name": "colorrr",
+  "version": "1.0.8",
+  "description": "Library to generate random hex and rgb colors",
   "main": "index.js",
   "repository": {
     "type": "git",
