@@ -1,0 +1,25 @@
+{
+  "name": "random-color-generator",
+  "version": "1.0.0",
+  "description": "Library to generate random hex colors",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakhbulatgaz/random-color-generator.git"
+  },
+  "keywords": [
+    "hex",
+    "random",
+    "color",
+    "colors",
+    "hexes",
+    "generator",
+    "creator"
+  ],
+  "author": "Shakhbulat Gazgireev <shakhbulatgaz@gmail.com> (github.com/shakhbulatgaz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakhbulatgaz/random-color-generator/issues"
+  },
+  "homepage": "https://github.com/shakhbulatgaz/random-color-generator#readme"
+}
