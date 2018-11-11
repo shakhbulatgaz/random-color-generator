@@ -1,4 +1,4 @@
-exports.getHex = function() {
+const getHex = () => {
       let characters = '0123456789ABCDEF';
       let color = '#';
       for (let i = 0; i < 6; i++) {
@@ -7,8 +7,10 @@ exports.getHex = function() {
       return color;
     };
 
-exports.getRGB = function() {
+const getRGB = () => {
     let r = () => { return Math.floor(Math.random() * 256) };
-    var color = 'rgb('+ r() +','+ r() +','+ r() +')';
+    let color = 'rgb('+ r() +','+ r() +','+ r() +')';
     return color;
 };
+
+export {getRGB, getHex};
